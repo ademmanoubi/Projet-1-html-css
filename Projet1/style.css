@@ -1,0 +1,32 @@
+nav ul {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 350px;
+    padding: 0;
+    padding: 25px;
+    background-color: #89e6f1;
+    border: 1px solid #eac5c5;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 100px;
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    
+}
+.section {
+    font-size: 20px;
+    padding: 20px;
+    background-color: #d49f8e;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
